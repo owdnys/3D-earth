@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://earth-lzx.pages.dev/sitemap.xml
